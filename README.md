@@ -8,13 +8,15 @@ Ejercicio 5: Escribir un programa que calcule el área de un triangulo, capturan
 Solución: https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejercicios%20python/Ejercicio5
 
 Ejercicio 6: Escribir un programa que calcule la longitud y el área de una  circunferencia, capturando el valor del radio. longitud de la circunferencia = 2 * PI * radio área de la circunferencia = PI * radio2
+Solución:https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejercicios%20python/Ejercicio6
 
 # Ejercicios con condicionales 
 
 Ejercicio 18: Escribir un programa que determine si un número leído desde el teclado es par o impar
+Solución:https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejercicios%20python/Ejercicio18
 
 Ejercicio 23: Escribir un programa que lea dos números desde el teclado y si el primero es mayor que el segundo intercambie sus valores.
-
+Solución:
 # Ejercicios con ciclos
 
 Ejercicio 29: Escribir un programa que visualice en pantalla los números múltiplos de 5 comprendidos entre 1 y 100
