@@ -5,6 +5,7 @@ Solución de ejercicios del taller de python:https://github.com/apdaza/universid
 
 Ejercicio 5: Escribir un programa que calcule el área de un triangulo, capturando los valores de base y altura.
 área del triángulo = (base * altura)/2
+Solución: https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejercicios%20python/Ejercicio5
 
 Ejercicio 6: Escribir un programa que calcule la longitud y el área de una  circunferencia, capturando el valor del radio. longitud de la circunferencia = 2 * PI * radio área de la circunferencia = PI * radio2
 
