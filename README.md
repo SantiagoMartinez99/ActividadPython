@@ -60,3 +60,10 @@ Solución:https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejer
 
 Ejercicio 81: Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado.
 Solución:https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejercicios%20python/Ejercicio81
+
+# Ejercicios archivos
+Ejercicio 86: Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto.
+Solución:https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejercicios%20python/Ejercicio86
+
+Ejercicio 87: Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior.
+Solución:https://github.com/SantiagoMartinez99/ActividadPython/tree/master/Ejercicios%20python/Ejercicio87
