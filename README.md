@@ -1,3 +1,4 @@
+# David Santiago Martinez Blanco 20171020150
 # ActividadPython
 Solución de ejercicios del taller de python:https://github.com/apdaza/universidad-ejercicios/blob/master/python/solucion%20guia%20ejercicios/ejercios%20pbas.pdf
 
